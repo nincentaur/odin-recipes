@@ -1,2 +1,4 @@
 # odin-recipes
-This project is to put the HTML info acquired/reviewed into practice. 
+This project is to put the HTML info I've recently acquired/reviewed into practice.
+I used relative links in the index page as well as an unordered list so the desserts are not displayed on a single line. For the recipes, I added width in the image tag to fix image size. This was not taught by Odin, but it was easy to figure out with the help of Google. I also used different header types and lists to make the recipe pages more legible and aesthetically pleasing.
+For this project, I chose 3 of my most favorite desserts EVER. Many thanks to the brilliant bakers that put these recipes together.
