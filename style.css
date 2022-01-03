@@ -15,6 +15,14 @@
   text-shadow: 1px 2px #ecb4bf;
 }
 
+.title.medov {
+  text-shadow: 1px 2px #fdf3b8;
+}
+
+.title.peach {
+  text-shadow: 1px 2px #fdd6b5;
+}
+
 .mainimg {
   display: block;
   height: auto;
@@ -46,6 +54,51 @@
   border: 5px solid #dba9ce;
   border-radius: 10px;
   display: inline-block;
+}
+
+.description {
+  padding: 20px;
+  margin-left: 15%;
+  margin-right: 15%;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.description.hotte {
+  border: 5px dashed #ecb4bf;
+  }
+
+.description.medovi {
+  border: 5px dashed #fdf3b8;
+}
+
+.description.peachy {
+  border: 5px dashed #fdd6b5;
+}
+
+.instructions {
+  padding: 10px;
+}
+
+.ingredients {
+  float: left;
+  width: 50%;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.steps {
+  padding-left: 50%;
+  padding-right: 10%;
+}
+
+.instructions:after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 .footer {
