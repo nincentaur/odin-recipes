@@ -1,4 +1,6 @@
 # odin-recipes
-This project is to put the HTML info I've recently acquired/reviewed into practice.
-I used relative links in the index page as well as an unordered list so the desserts are not displayed on a single line. For the recipes, I added width in the image tag to fix image size. This was not taught by Odin, but it was easy to figure out with the help of Google. I also used different header types and lists to make the recipe pages more legible and aesthetically pleasing.
-For this project, I chose 3 of my most favorite desserts EVER. Many thanks to the brilliant bakers that put these recipes together.
+Purpose of this project is to put the HTML ~and CSS~ info I've recently acquired/reviewed into practice.
+For content filler, I chose 3 of my most favorite desserts EVER, and one of my favorite memes. That possum is truly the embodiment of yolo.
+Many thanks to the brilliant bakers that put these recipes together.
+1st round: I used relative links in the index page as well as an unordered list so the desserts are not displayed on a single line. For the recipes, I added width in the image tag to fix image size. This was not taught by Odin, but it was easy to figure out with the help of outside sources. I also used different header types and lists to make the recipe pages more legible and aesthetically pleasing.
+2nd go: I used CSS for things I though I needed to include on the html page such as width so I fixed that. My ambition is always one or two steps ahead of the curriculum lol. In hindsight, I realized Odin would cover blocking, etc after revision assigment. Meanwhile, past-me wanted my pecipe pages to look a certain way so I barreled through it with the use of Google. It could definitely use some clean-up to get similar if not better results, but it turned out to be not bad in the least. In fact, dare I say.. looks pretty good?
